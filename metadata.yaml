@@ -1,0 +1,31 @@
+_repo: Iloisia-juttuja-I_20517
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jääskeläinen, Kaapro
+    aliases:
+    - Mäkelä, August Bernhard
+    - Jaaskelainen, Kaapro
+    - Makela, August Bernhard
+    birthdate: 1862
+    deathdate: 1932
+    gutenberg_agent_id: '9350'
+    url: http://www.gutenberg.org/2009/agents/9350
+    wikipedia: http://fi.wikipedia.org/wiki/August_Bernhard_M%C3%A4kel%C3%A4
+description: ''
+gutenberg_issued: '2007-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20517'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Fiction'
+title: Iloisia juttuja I
+url: http://www.gutenberg.org/ebooks/20517
