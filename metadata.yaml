@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9350
     wikipedia: http://fi.wikipedia.org/wiki/August_Bernhard_M%C3%A4kel%C3%A4
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20517#Iloisia-juttuja-I
 gutenberg_issued: '2007-02-06'
 gutenberg_type: Text
 identifiers:
